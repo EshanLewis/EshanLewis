@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ESHAN</h1>
 <h3 align="center">A fun-time coder from somewhere in the world.</h3>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ixoy2k3v75tr7sdqq5mcd5hv4y)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eshanlewis&label=Profile%20Views&color=754ffe&style=flat" alt="eshanlewis" /> </p>
 
