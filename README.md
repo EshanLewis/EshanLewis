@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://tenor.com/en-GB/view/welcome-gif-26434438" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm ΞSHΔИ. Fun-time coder who believes in sharing knowledge.</div>  
   
 
@@ -113,11 +108,11 @@
 
 <br/>  
 
-
+  
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ixoy2k3v75tr7sdqq5mcd5hv4y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" /></div>  
+  
 
 <br/>  
 
