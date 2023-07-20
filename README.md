@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm ESHAN</h1>
 <h3 align="center">A fun-time coder from somewhere in the world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eshanlewis&label=Profile%20Views&color=754ffe&style=flat" alt="eshanlewis" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eshanlewis&label=Profile%20Views&color=754ffe&style=flat" alt="eshanlewis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshanlewis" alt="eshanlewis" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshanlewis" alt="eshanlewis" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lewis_eshan" target="blank"><img src="https://img.shields.io/twitter/follow/lewis_eshan?logo=twitter&style=for-the-badge" alt="lewis_eshan" /></a> </p>
+<p align="center"> <a href="https://twitter.com/lewis_eshan" target="blank"><img src="https://img.shields.io/twitter/follow/lewis_eshan?logo=twitter&style=for-the-badge" alt="lewis_eshan" /></a> </p>
 
 - 🔭 I’m currently working on **OffSecPro**
 
